@@ -1,0 +1,2 @@
+{ "name": "Pulse AI", "short_name": "Pulse", "start_url": "/", "display": "standalone", "background_color": "#0A1422", "theme_color": "#0E1A2B",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }] }
